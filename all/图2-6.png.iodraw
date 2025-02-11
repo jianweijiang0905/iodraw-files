@@ -180,7 +180,7 @@
           <mxGeometry x="535" y="506.25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYy1atxLIqH9RYxPxhJ8-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;位置编码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="611.77" y="506.25" width="120" height="30" as="geometry" />
+          <mxGeometry x="490" y="506.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYy1atxLIqH9RYxPxhJ8-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYy1atxLIqH9RYxPxhJ8-45" target="fYy1atxLIqH9RYxPxhJ8-39">
           <mxGeometry relative="1" as="geometry" />
