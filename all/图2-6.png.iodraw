@@ -25,6 +25,9 @@
         <mxCell id="fYy1atxLIqH9RYxPxhJ8-8" value="位置编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fYy1atxLIqH9RYxPxhJ8-9" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
