@@ -28,6 +28,9 @@
         <mxCell id="Mv_t0sBxOntkW4e5Sf9R-8" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="640" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Training Set&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="370" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
