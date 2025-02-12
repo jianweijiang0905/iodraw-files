@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="140" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="60" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="60" height="60" as="geometry" />
+          <mxGeometry x="260" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="60" height="60" as="geometry" />
