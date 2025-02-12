@@ -232,9 +232,6 @@
             <mxPoint x="299" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;K-fold Cross Validation&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="360" width="180" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
