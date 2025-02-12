@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;-apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif&quot; color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;K-fold Cross Validation&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="378" width="210" height="30" as="geometry" />
+          <mxGeometry x="480" y="360" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
