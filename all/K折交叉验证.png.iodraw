@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mv_t0sBxOntkW4e5Sf9R-97" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;K-fold Cross Validation&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="383" width="230" height="40" as="geometry" />
+          <mxGeometry x="515" y="350" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
