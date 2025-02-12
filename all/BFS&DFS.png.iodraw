@@ -248,18 +248,13 @@
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YUZ6vOxW5uPksGXaBkmd-58">
-          <mxGeometry x="-0.0433" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-59" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="510" as="sourcePoint" />
             <mxPoint x="290" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-69" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YUZ6vOxW5uPksGXaBkmd-59">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-69" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YUZ6vOxW5uPksGXaBkmd-59">
           <mxGeometry x="-0.0548" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
