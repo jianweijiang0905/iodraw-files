@@ -232,8 +232,8 @@
             <mxPoint x="299" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;k-Folder Cross Validation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="358" width="210" height="30" as="geometry" />
+        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;k-Folder Cross Validation&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="358" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
