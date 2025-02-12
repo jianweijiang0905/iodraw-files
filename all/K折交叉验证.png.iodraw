@@ -232,8 +232,8 @@
             <mxPoint x="299" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="358" width="50" height="30" as="geometry" />
+        <mxCell id="Mv_t0sBxOntkW4e5Sf9R-96" value="K Folds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="358" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
