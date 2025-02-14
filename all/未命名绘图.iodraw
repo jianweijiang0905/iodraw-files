@@ -120,10 +120,10 @@
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-38" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="440" as="sourcePoint" />
-            <mxPoint x="670" y="640" as="targetPoint" />
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="800" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="590" />
+              <mxPoint x="550" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
