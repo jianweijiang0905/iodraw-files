@@ -127,8 +127,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-39" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-39" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="857" y="540" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
