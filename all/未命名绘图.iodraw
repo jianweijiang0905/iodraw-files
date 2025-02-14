@@ -303,7 +303,7 @@
         <mxCell id="Au7PVigePDGGUV0ZkD_m-106" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="425" y="855" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-107" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-107" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;zero padding&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-108" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;BN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
