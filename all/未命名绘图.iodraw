@@ -112,8 +112,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-36" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;上采样&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-36" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;上采样&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="740" y="530" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-37" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;上采样&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
