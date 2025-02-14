@@ -184,9 +184,6 @@
             <mxPoint x="310" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jFfH6Jc6MmtlumpdXDK9-89" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="575" width="50" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
