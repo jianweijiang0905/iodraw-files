@@ -10,10 +10,10 @@
         <mxCell id="Au7PVigePDGGUV0ZkD_m-3" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-40" y="370" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="430" as="sourcePoint" />
-            <mxPoint x="160" y="430" as="targetPoint" />
+            <mxPoint x="100" y="429.5" as="sourcePoint" />
+            <mxPoint x="150" y="429.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
