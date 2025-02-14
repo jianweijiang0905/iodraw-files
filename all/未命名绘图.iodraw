@@ -355,6 +355,12 @@
         <mxCell id="Au7PVigePDGGUV0ZkD_m-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#808080;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="930" width="575" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-128" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Res block&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="725" y="835" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-129" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Res block&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="860" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
