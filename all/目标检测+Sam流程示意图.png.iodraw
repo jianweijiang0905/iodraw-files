@@ -130,6 +130,9 @@
         <mxCell id="KGDrSYCVwNkZ6inxCTok-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;（x&lt;sub&gt;4，&lt;/sub&gt;y&lt;sub&gt;4&lt;/sub&gt;）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-51">
           <mxGeometry y="100" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KGDrSYCVwNkZ6inxCTok-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
