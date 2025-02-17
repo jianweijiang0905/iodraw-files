@@ -540,8 +540,8 @@
             <mxPoint x="1034" y="484.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r5NbozFzt0XIRueCYGOK-136" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="509.5" width="24" height="30" as="geometry" />
+        <mxCell id="r5NbozFzt0XIRueCYGOK-137" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="550" width="48" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
