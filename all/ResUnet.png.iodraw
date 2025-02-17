@@ -675,7 +675,7 @@
           <mxGeometry x="286.07" y="470" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="r5NbozFzt0XIRueCYGOK-169" value="&lt;font size=&quot;1&quot; color=&quot;#ff6666&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Skip Connection&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="817.9300000000001" y="67" width="240" height="50" as="geometry" />
+          <mxGeometry x="1005" y="608.5" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
