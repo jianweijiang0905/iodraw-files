@@ -518,10 +518,10 @@
         <mxCell id="r5NbozFzt0XIRueCYGOK-132" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.517241379310345;endSize=3.324137931034483;endWidth=5.850178359096314;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="786.0699999999999" y="538.5" as="sourcePoint" />
-            <mxPoint x="925.0699999999999" y="532" as="targetPoint" />
+            <mxPoint x="980" y="532" as="targetPoint" />
             <Array as="points">
               <mxPoint x="786.0699999999999" y="566.5" />
-              <mxPoint x="925.0699999999999" y="566" />
+              <mxPoint x="980" y="566" />
             </Array>
           </mxGeometry>
         </mxCell>
