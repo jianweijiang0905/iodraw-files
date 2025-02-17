@@ -196,8 +196,8 @@
         <mxCell id="EkYppUqFQk07-91qshEe-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="EkYppUqFQk07-91qshEe-90" value="Conv + Batch Normalisation + ReLu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
