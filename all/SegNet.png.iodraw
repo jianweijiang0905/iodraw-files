@@ -62,16 +62,10 @@
           <mxGeometry x="45" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EkYppUqFQk07-91qshEe-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650" y="400" width="90" height="140" as="geometry" />
+          <mxGeometry x="690" y="390" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EkYppUqFQk07-91qshEe-28" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-27">
           <mxGeometry width="60" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-29" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-27">
-          <mxGeometry x="14" width="60" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-30" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-27">
-          <mxGeometry x="30" width="60" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
