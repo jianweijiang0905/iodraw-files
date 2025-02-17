@@ -124,7 +124,7 @@
         <mxCell id="EkYppUqFQk07-91qshEe-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="362" y="457.5" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-28" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
+        <mxCell id="EkYppUqFQk07-91qshEe-28" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
           <mxGeometry width="50.56179775280899" height="109.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="EkYppUqFQk07-91qshEe-45" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
@@ -133,7 +133,7 @@
         <mxCell id="EkYppUqFQk07-91qshEe-47" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
           <mxGeometry x="26.292134831460675" width="50.56179775280899" height="109.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-46" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
+        <mxCell id="EkYppUqFQk07-91qshEe-46" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=41;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EkYppUqFQk07-91qshEe-49">
           <mxGeometry x="39.438202247191015" width="50.56179775280899" height="109.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="EkYppUqFQk07-91qshEe-44" value="" style="group" vertex="1" connectable="0" parent="1">
