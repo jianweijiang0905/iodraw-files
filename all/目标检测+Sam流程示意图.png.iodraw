@@ -16,14 +16,14 @@
             <mxPoint x="350" y="764.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="370" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="KGDrSYCVwNkZ6inxCTok-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="555.89" y="750" width="115.14" height="56.67" as="geometry" />
+          <mxGeometry x="555.89" y="750" width="160.08000000000004" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KGDrSYCVwNkZ6inxCTok-31" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
           <mxGeometry y="20" width="90" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="KGDrSYCVwNkZ6inxCTok-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
+          <mxGeometry x="-209.91999999999996" y="-120" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="KGDrSYCVwNkZ6inxCTok-36" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="700" width="195.89189189189187" height="140" as="geometry" />
