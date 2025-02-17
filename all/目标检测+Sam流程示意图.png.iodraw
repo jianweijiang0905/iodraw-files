@@ -82,15 +82,6 @@
         <mxCell id="KGDrSYCVwNkZ6inxCTok-31" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=29;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
           <mxGeometry width="54.18352941176471" height="53.32999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-32" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=29;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
-          <mxGeometry x="20.318823529411766" width="54.18352941176471" height="53.32999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-33" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=29;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
-          <mxGeometry x="40.63764705882353" width="54.18352941176471" height="53.32999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-34" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=29;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KGDrSYCVwNkZ6inxCTok-30">
-          <mxGeometry x="60.95647058823529" width="54.18352941176471" height="53.32999999999995" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
