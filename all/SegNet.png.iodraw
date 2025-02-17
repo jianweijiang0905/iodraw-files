@@ -187,8 +187,8 @@
             <mxPoint x="860" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Convolutional Encoder-Decoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="353" width="280" height="40" as="geometry" />
+        <mxCell id="EkYppUqFQk07-91qshEe-87" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Convolutional Encoder-Decoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="353" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
