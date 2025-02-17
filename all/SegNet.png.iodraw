@@ -55,6 +55,18 @@
         <mxCell id="EkYppUqFQk07-91qshEe-14" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-18">
           <mxGeometry x="30" width="60" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="EkYppUqFQk07-91qshEe-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="435" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EkYppUqFQk07-91qshEe-23" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-22">
+          <mxGeometry width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EkYppUqFQk07-91qshEe-24" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-22">
+          <mxGeometry x="15" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EkYppUqFQk07-91qshEe-25" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-22">
+          <mxGeometry x="30" width="60" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
