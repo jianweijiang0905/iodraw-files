@@ -136,7 +136,7 @@
             <mxPoint x="447" y="687.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="em00uoT8JPCjkZ3y7k-n-61" value="" style="group;flipH=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="em00uoT8JPCjkZ3y7k-n-61" value="" style="group;flipH=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="414" y="260" width="278" height="417" as="geometry" />
         </mxCell>
         <mxCell id="em00uoT8JPCjkZ3y7k-n-37" value="" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="em00uoT8JPCjkZ3y7k-n-61">
