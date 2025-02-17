@@ -16,6 +16,9 @@
         <mxCell id="EkYppUqFQk07-91qshEe-7" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-21">
           <mxGeometry x="15" width="60" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="EkYppUqFQk07-91qshEe-8" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-21">
+          <mxGeometry x="30" width="60" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="EkYppUqFQk07-91qshEe-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="430" width="90" height="165" as="geometry" />
         </mxCell>
@@ -88,8 +91,8 @@
         <mxCell id="EkYppUqFQk07-91qshEe-38" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="EkYppUqFQk07-91qshEe-37">
           <mxGeometry width="60" height="103.44827586206897" as="geometry" />
         </mxCell>
-        <mxCell id="EkYppUqFQk07-91qshEe-8" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=50;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="100" y="640" width="60" height="190" as="geometry" />
+        <mxCell id="EkYppUqFQk07-91qshEe-39" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
