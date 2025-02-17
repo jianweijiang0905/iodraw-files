@@ -217,13 +217,13 @@
             <mxPoint x="584.34" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="em00uoT8JPCjkZ3y7k-n-55" value="" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="em00uoT8JPCjkZ3y7k-n-55" value="" style="whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="576" y="620" width="12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="em00uoT8JPCjkZ3y7k-n-56" value="" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="em00uoT8JPCjkZ3y7k-n-56" value="" style="whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="527" y="620" width="24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="em00uoT8JPCjkZ3y7k-n-57" value="" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="em00uoT8JPCjkZ3y7k-n-57" value="" style="whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="em00uoT8JPCjkZ3y7k-n-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.517241379310345;endSize=3.324137931034483;endWidth=5.850178359096314;" edge="1" parent="1">
