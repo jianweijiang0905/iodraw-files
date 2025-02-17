@@ -40,8 +40,11 @@
         <mxCell id="Cc77k-tiUdhkczmnc5Pe-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C3&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="635" y="600" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cc77k-tiUdhkczmnc5Pe-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;B1&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Cc77k-tiUdhkczmnc5Pe-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;B3&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="705" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cc77k-tiUdhkczmnc5Pe-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C1&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
