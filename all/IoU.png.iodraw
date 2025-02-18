@@ -58,8 +58,8 @@
         <mxCell id="wby2asSBl-3X_SE4jtTq-21" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;False Negative&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="99.42" y="680" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wby2asSBl-3X_SE4jtTq-22" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;False Negative&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="181.7" y="790" width="150" height="40" as="geometry" />
+        <mxCell id="wby2asSBl-3X_SE4jtTq-22" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;True Positive&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="186.7" y="790" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
