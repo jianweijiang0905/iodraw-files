@@ -38,7 +38,7 @@
           <mxGeometry x="-170" y="710" width="500" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--18" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;line-height: 200%;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;FP&lt;/font&gt;&lt;font color=&quot;#666666&quot;&gt;：假正类。样本真实类别是负类，但模型识别为正类。&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;TN&lt;/font&gt;&lt;font color=&quot;#666666&quot;&gt;：真负类。样本真实类别是负类，且模型识别为负类。&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="300" y="710" width="770" height="90" as="geometry" />
+          <mxGeometry x="310" y="720" width="770" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
