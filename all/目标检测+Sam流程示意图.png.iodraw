@@ -94,12 +94,6 @@
             <mxPoint x="820" y="749.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=18;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="900" as="sourcePoint" />
-            <mxPoint x="990" y="1082" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KGDrSYCVwNkZ6inxCTok-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=27.142857142857146;endSize=7.328571428571429;width=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="900" as="sourcePoint" />
