@@ -139,10 +139,10 @@
         <mxCell id="KGDrSYCVwNkZ6inxCTok-54" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;提示编码&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Prompt-Encoder&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1010" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KGDrSYCVwNkZ6inxCTok-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="KGDrSYCVwNkZ6inxCTok-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="1050" as="sourcePoint" />
-            <mxPoint x="950" y="1000" as="targetPoint" />
+            <mxPoint x="909.25" y="1080" as="sourcePoint" />
+            <mxPoint x="959.25" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
