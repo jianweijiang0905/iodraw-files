@@ -73,8 +73,8 @@
             <mxPoint x="185.44" y="1019.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wby2asSBl-3X_SE4jtTq-27" value="TP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="990" width="40" height="30" as="geometry" />
+        <mxCell id="wby2asSBl-3X_SE4jtTq-27" value="&lt;font size=&quot;1&quot; face=&quot;Garamond&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;TP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="985" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
