@@ -59,7 +59,7 @@
           <mxGeometry x="104.42" y="686" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-22" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;True Positive&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(TP)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="181.7" y="796" width="140" height="60" as="geometry" />
+          <mxGeometry x="177.19" y="800" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-23" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;False Positive&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="254.42000000000002" y="930" width="140" height="40" as="geometry" />
