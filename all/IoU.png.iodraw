@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;color: rgb(77, 77, 77); font-size: 18px;&quot;&gt;2&amp;nbsp;*&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;TP&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="416.18" y="1000" width="70" height="40" as="geometry" />
+          <mxGeometry x="416.18" y="995" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-35" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(TP+FN)+(TP+FP)&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="1030" width="181" height="40" as="geometry" />
