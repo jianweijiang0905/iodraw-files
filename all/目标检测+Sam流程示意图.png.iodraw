@@ -154,8 +154,8 @@
         <mxCell id="KGDrSYCVwNkZ6inxCTok-58" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;掩膜编码&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;Mask-Encoder&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="1090" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-60" value="SAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1018" width="50" height="30" as="geometry" />
+        <mxCell id="KGDrSYCVwNkZ6inxCTok-60" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;SAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1013" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
