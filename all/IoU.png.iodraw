@@ -64,8 +64,8 @@
         <mxCell id="wby2asSBl-3X_SE4jtTq-23" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;False Positive&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(FP)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="254.42000000000002" y="910" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wby2asSBl-3X_SE4jtTq-25" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IoU =&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1000" width="70" height="40" as="geometry" />
+        <mxCell id="wby2asSBl-3X_SE4jtTq-25" value="&lt;font face=&quot;Georgia&quot; color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IoU =&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
