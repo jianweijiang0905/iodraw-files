@@ -133,7 +133,7 @@
         <mxCell id="KGDrSYCVwNkZ6inxCTok-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="1000" width="213" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KGDrSYCVwNkZ6inxCTok-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KGDrSYCVwNkZ6inxCTok-53" value="图像编码&lt;div&gt;images-encoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="1010" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KGDrSYCVwNkZ6inxCTok-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
