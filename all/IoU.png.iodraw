@@ -67,10 +67,10 @@
         <mxCell id="wby2asSBl-3X_SE4jtTq-25" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;IoU =&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="1000" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wby2asSBl-3X_SE4jtTq-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wby2asSBl-3X_SE4jtTq-25">
+        <mxCell id="wby2asSBl-3X_SE4jtTq-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="990" as="sourcePoint" />
-            <mxPoint x="180" y="1024" as="targetPoint" />
+            <mxPoint x="75.44" y="1019.8199999999999" as="sourcePoint" />
+            <mxPoint x="185.44" y="1019.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
