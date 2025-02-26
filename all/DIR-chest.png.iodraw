@@ -7,7 +7,7 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="60" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=40;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-1">
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=30;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-1">
           <mxGeometry width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-3" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-1">
@@ -34,7 +34,7 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="460" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-11" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=40;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-10">
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-11" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=30;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-10">
           <mxGeometry width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-10">
@@ -88,7 +88,7 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="400" y="460" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-23" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=40;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-22">
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-23" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=30;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-22">
           <mxGeometry width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-24" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-22">
