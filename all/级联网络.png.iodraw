@@ -624,8 +624,8 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-169" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;strokeWidth=2;fontColor=#333333;direction=south;" vertex="1" parent="1">
           <mxGeometry x="120" y="1050" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-170" value="&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Element-Wise-Addition&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1030" width="240" height="40" as="geometry" />
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-171" value="&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;DRConv3d((3,5,5),8)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1060" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
