@@ -338,7 +338,7 @@
           <mxGeometry x="370" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-96" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="704" width="180" height="120" as="geometry" />
+          <mxGeometry x="550" y="704" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
