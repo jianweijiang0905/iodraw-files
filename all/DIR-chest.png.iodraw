@@ -771,8 +771,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-265" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Conv3D(3,1,1)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1885" y="1000" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-266" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1775" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-266" value="CDF:Chest Deformation Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="668" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
