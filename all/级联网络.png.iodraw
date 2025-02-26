@@ -372,16 +372,10 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.2857142857142825;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="348" width="70" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-95" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=40;endWidth=54.54545454545454;endSize=13.872727272727271;" edge="1" parent="1">
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-95" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=40;endWidth=54.54545454545454;endSize=13.872727272727271;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="650" as="sourcePoint" />
             <mxPoint x="-390" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.534;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=46;entryDy=160;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-460" y="1000" as="sourcePoint" />
-            <mxPoint x="-399.84000000000015" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
