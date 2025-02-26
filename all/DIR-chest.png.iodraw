@@ -747,10 +747,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-259" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-259" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FN07L5FlEkS8RXMXQ-Fa-255">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1890" y="910" as="sourcePoint" />
-            <mxPoint x="1940" y="860" as="targetPoint" />
+            <mxPoint x="2250" y="1099" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
