@@ -435,21 +435,6 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-113" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="980" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-114" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="980" width="20" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-115" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="980" width="20" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-116" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="980" width="20" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-117" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="980" width="20" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-118" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="980" width="20" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
