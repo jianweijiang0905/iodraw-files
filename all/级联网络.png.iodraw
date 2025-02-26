@@ -369,8 +369,8 @@
             <mxPoint x="520" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.2857142857142825;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="760" width="70" height="470" as="geometry" />
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.2857142857142825;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="70" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
