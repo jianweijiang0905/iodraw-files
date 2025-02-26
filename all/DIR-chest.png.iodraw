@@ -375,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-89" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="770" width="180" height="180" as="geometry" />
+          <mxGeometry x="401" y="770" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-90" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=30;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-89">
           <mxGeometry width="180" height="180" as="geometry" />
@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-95" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="1170" width="180" height="180" as="geometry" />
+          <mxGeometry x="401" y="1170" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-96" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=30;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;shadow=1;strokeColor=default;" vertex="1" parent="FN07L5FlEkS8RXMXQ-Fa-95">
           <mxGeometry width="180" height="180" as="geometry" />
