@@ -325,6 +325,15 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-91" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;T-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="210" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-92" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="140" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-93" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-94" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;128&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
