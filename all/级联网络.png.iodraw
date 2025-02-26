@@ -310,6 +310,12 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
           <mxGeometry x="-40" y="559" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.516;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UVUlY3qbT6hDnbaw6Nq7-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="630" as="sourcePoint" />
+            <mxPoint x="-90" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
