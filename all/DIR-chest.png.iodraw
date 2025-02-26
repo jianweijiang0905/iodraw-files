@@ -124,8 +124,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or5XUqsXZ3Q0nczb70YE-48" value="（隆突空间对齐+刚体配准）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="180" height="40" as="geometry" />
+        <mxCell id="Or5XUqsXZ3Q0nczb70YE-48" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;（隆突空间对齐+刚体配准）&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
