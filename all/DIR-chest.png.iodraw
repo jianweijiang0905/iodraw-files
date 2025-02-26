@@ -367,6 +367,9 @@
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-128" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;肿瘤质心（X，Y，Z）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="767" y="925" width="193" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Or5XUqsXZ3Q0nczb70YE-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
