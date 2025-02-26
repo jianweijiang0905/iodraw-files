@@ -614,6 +614,9 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-212" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1260" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-213" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1180" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
