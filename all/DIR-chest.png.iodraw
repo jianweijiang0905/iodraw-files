@@ -921,8 +921,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-318" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;16&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1088" y="1254" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-319" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-320" value="参考相位CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="248" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
