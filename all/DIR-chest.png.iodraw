@@ -570,7 +570,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-173" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAADfklEQVR4AeXBCXKbAAAEwZn/P3pjWT50AAJEysB2SzkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSkn5aSclJNyUk7KSTkpJ+Vkx8IQ2ZLsVJgkG5H/J/ySBcIcsgXZXhgnr4T55G2yqTCLjAhLyXtkO2EZuRVWknfIRsLfkfVkC+GPyVryvrADso68K+yDrCLvCfshK8g7wq7IcrJe2BtZTFYLOyQLyUphn2QZWSXslywhK4RdkwVkubBzMp8sFfZPZpOFwiHITLJIOAqZR5YIxyGzyHzhWGQGmS0cjbwmM4UDkpdknnBI8orMEo5KpskM4cBkkrwWDk2myCvh8GScvBBOQEbJtHAKMkYmhZOQETIlnIYMkwnhRGSQjArnIkNkTDgbGSAjwvnIMxkRTkieyLBwSvJIBoWTkgcyJJyW3JMB4cTkjjwLpya35Ek4N7klj8LZyQ15FE5PfsmDUEB+yL1QQb7JndBBvsmdUEK+yK1QQ67kRughV/IrNJFP8itUkQv5EbrIhXwLbeSDfAt1BORL6CMgV6GRIFehksin0EnkIrRSLkIr5UPoJRCKCYRiQmgmoZqEaoZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhm6GboZuhmoamomhmGDoJSChloAQSskHgdBJPshFaCQf5CIUkgv5FPrIhVyFOnIhX0IZ+SRfQhe5km+hilzJj1BEvsiv0EJ+yK/QQW7IjVBA7sitcHLySO6F85IB8iiclAyRZ+GEZJgMCGcjY2RQOBUZJcPCicg4GRPOQibIqHAOMkXGhTOQSTIhHJ9Mk0nh4OQFmRYOTV6Rl8JhyUuyQDgWeU0WC8cgc8gqYe9kHlkt/DF5Ei5kPnlH+DOyDXlbWE8uwkKyGdlCWEwehXlkS7KhMJOMCNNka7K5ME1eCIPkf5D/JjyTvZFyUk7KSTkpJ+WknJSTclJOykk5KSflpJyUk3JSTspJOSkn5aTcP6h7150SEYSkAAAAAElFTkSuQmCC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="140" height="140" as="geometry" />
+          <mxGeometry x="320" y="280" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
