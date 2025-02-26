@@ -188,10 +188,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-47" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="300" width="10" height="120" as="geometry" />
+          <mxGeometry x="1220" y="300" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-48" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="335" width="50" height="50" as="geometry" />
+          <mxGeometry x="1260" y="335" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-49" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1370" y="300" width="40" height="120" as="geometry" />
