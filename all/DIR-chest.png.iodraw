@@ -743,8 +743,14 @@
             <mxPoint x="1940" y="860" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1990" y="1040" />
-              <mxPoint x="2170" y="1040" />
+              <mxPoint x="2163" y="1040" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-259" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="910" as="sourcePoint" />
+            <mxPoint x="1940" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
