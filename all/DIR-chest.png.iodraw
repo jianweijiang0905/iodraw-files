@@ -716,8 +716,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-252" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1757.5" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-253" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="1068" width="50" height="30" as="geometry" />
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-253" value="ResConnect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="1068" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
