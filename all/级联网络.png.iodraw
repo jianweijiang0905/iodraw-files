@@ -331,7 +331,7 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="563" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.534;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.534;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="588" as="sourcePoint" />
             <mxPoint x="220" y="588" as="targetPoint" />
@@ -341,6 +341,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="588" as="sourcePoint" />
             <mxPoint x="300" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="590" as="sourcePoint" />
+            <mxPoint x="-240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
