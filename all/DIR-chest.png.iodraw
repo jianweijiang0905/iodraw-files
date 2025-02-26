@@ -942,8 +942,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-327" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="1024" y="776.25" width="64" height="487.5" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-329" value="CDFs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="945" y="1348" width="50" height="30" as="geometry" />
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-329" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;BDFs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1333" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
