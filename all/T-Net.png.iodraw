@@ -181,10 +181,10 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="530" y="495" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tsjEJYPAnIxCE_zO7icn-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tsjEJYPAnIxCE_zO7icn-41" target="tsjEJYPAnIxCE_zO7icn-51">
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tsjEJYPAnIxCE_zO7icn-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="560" as="sourcePoint" />
-            <mxPoint x="830" y="510" as="targetPoint" />
+            <mxPoint x="550" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="605" />
             </Array>
@@ -325,7 +325,7 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tsjEJYPAnIxCE_zO7icn-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="460" as="sourcePoint" />
-            <mxPoint x="550" y="490" as="targetPoint" />
+            <mxPoint x="550" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="188" />
             </Array>
