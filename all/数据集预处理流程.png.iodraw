@@ -149,9 +149,9 @@
           <mxGeometry x="350" y="680" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-56" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="660" width="180" height="120" as="geometry" />
+          <mxGeometry x="545" y="660" width="185" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Or5XUqsXZ3Q0nczb70YE-57" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;目标检测&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;+&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;SAM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Or5XUqsXZ3Q0nczb70YE-57" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;目标检测&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;SAM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="680" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
