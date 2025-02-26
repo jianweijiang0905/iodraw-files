@@ -498,8 +498,8 @@
         <mxCell id="UVUlY3qbT6hDnbaw6Nq7-134" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="120" y="857" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-136" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1030" width="70" height="70" as="geometry" />
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-136" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1060" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
