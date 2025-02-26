@@ -305,10 +305,10 @@
             <mxPoint x="1470" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FN07L5FlEkS8RXMXQ-Fa-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="360" as="sourcePoint" />
-            <mxPoint x="990" y="140" as="targetPoint" />
+            <mxPoint x="1410" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="810" y="150" />
             </Array>
