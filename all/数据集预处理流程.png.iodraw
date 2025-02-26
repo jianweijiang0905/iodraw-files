@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-18" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;重采样(1.15,1.15,2)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="370" width="180" height="40" as="geometry" />
+          <mxGeometry x="560" y="360" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="480" y="430" width="180" height="150" as="geometry" />
@@ -384,6 +384,9 @@
             <mxPoint x="461.99999999999955" y="600.0000000000002" as="sourcePoint" />
             <mxPoint x="402" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7MxX4uzoFW76coKcEKOE-9" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;空间对齐&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
