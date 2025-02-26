@@ -378,6 +378,12 @@
             <mxPoint x="-390" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UVUlY3qbT6hDnbaw6Nq7-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.534;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=46;entryDy=160;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="980" as="sourcePoint" />
+            <mxPoint x="-409.84000000000015" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
