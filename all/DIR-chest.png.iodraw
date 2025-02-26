@@ -115,8 +115,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-28" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-29" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
