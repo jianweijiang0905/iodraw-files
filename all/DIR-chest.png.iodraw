@@ -933,6 +933,12 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-325" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;运动胸廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FN07L5FlEkS8RXMXQ-Fa-326" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FN07L5FlEkS8RXMXQ-Fa-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="1100" as="sourcePoint" />
+            <mxPoint x="1310" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
