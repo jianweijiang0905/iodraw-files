@@ -67,8 +67,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="665" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-18" value="ArgMax()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="655" y="148" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
