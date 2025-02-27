@@ -1370,7 +1370,19 @@
           <mxGeometry x="460" y="460" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTxwrDx4XM7tNW02xMPS-2404" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="650" width="20" height="20" as="geometry" />
+          <mxGeometry x="580" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2405" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2406" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2407" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2408" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
