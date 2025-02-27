@@ -535,6 +535,12 @@
         <mxCell id="DTxwrDx4XM7tNW02xMPS-1290" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="216.86" y="430" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-1291" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="216.86" y="404" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-1292" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
