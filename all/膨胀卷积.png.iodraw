@@ -1318,6 +1318,9 @@
         <mxCell id="DTxwrDx4XM7tNW02xMPS-2104" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="218.86" y="700" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
