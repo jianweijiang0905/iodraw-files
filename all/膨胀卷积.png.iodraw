@@ -526,6 +526,9 @@
             <mxRectangle width="27" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-1286" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="215.86" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
