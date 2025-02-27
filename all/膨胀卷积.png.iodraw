@@ -937,9 +937,6 @@
             <mxRectangle width="23" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTxwrDx4XM7tNW02xMPS-739" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="DTxwrDx4XM7tNW02xMPS-206">
-          <mxGeometry x="68.75" y="120" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DTxwrDx4XM7tNW02xMPS-313" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="445" y="240" width="276" height="280" as="geometry" />
         </mxCell>
@@ -2793,6 +2790,9 @@
           <mxGeometry x="46" width="23" height="23" as="geometry">
             <mxRectangle width="23" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-739" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
