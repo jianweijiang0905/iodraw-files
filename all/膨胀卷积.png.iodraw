@@ -542,7 +542,10 @@
           <mxGeometry x="216.86" y="456" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTxwrDx4XM7tNW02xMPS-1293" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="520" width="20" height="20" as="geometry" />
+          <mxGeometry x="163" y="456" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-1294" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="430" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
