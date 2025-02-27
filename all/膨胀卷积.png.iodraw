@@ -68,7 +68,7 @@
           <mxGeometry x="360" y="-30.000000000000007" width="589" height="199.27" as="geometry" />
         </mxCell>
         <mxCell id="DTxwrDx4XM7tNW02xMPS-739" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="600" width="20" height="20" as="geometry" />
+          <mxGeometry x="190" y="430" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTxwrDx4XM7tNW02xMPS-1169" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=none;swimlaneFillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="80" height="80" as="geometry" />
@@ -525,6 +525,9 @@
           <mxGeometry x="53" width="27" height="27" as="geometry">
             <mxRectangle width="27" height="27" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-1287" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
