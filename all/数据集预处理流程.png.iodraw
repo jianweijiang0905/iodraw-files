@@ -49,8 +49,8 @@
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-11" value="G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="445" y="688" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-12" value="X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="305" y="588" width="30" height="30" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="583" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
