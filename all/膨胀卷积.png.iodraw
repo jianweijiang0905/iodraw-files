@@ -1324,6 +1324,15 @@
         <mxCell id="DTxwrDx4XM7tNW02xMPS-2116" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2117" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2118" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTxwrDx4XM7tNW02xMPS-2119" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
