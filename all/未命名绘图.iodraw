@@ -582,7 +582,7 @@
           <mxGeometry x="10" y="20" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-424" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;参考相位结节分布&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="533" y="1385" width="170" height="40" as="geometry" />
+          <mxGeometry x="500" y="1647" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-425" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="949" y="1359" width="40" height="40" as="geometry" />
@@ -722,7 +722,7 @@
         <mxCell id="m1FS1h_AhYa8Y0tprcel-459" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1620" as="sourcePoint" />
-            <mxPoint x="650" y="1619.53" as="targetPoint" />
+            <mxPoint x="610" y="1620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="1619.53" />
             </Array>
