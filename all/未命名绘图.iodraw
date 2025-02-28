@@ -582,7 +582,7 @@
           <mxGeometry x="10" y="20" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-424" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;参考相位结节分布&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1647" width="170" height="40" as="geometry" />
+          <mxGeometry x="404" y="1688" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-425" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="949" y="1359" width="40" height="40" as="geometry" />
@@ -777,7 +777,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-477" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1880" width="10" height="120" as="geometry" />
+          <mxGeometry x="650" y="1543" width="10" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
