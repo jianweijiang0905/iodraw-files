@@ -734,7 +734,7 @@
         <mxCell id="m1FS1h_AhYa8Y0tprcel-476" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;width=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="749" as="sourcePoint" />
-            <mxPoint x="940" y="1380" as="targetPoint" />
+            <mxPoint x="930" y="1380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="749" />
               <mxPoint x="620" y="1380" />
@@ -750,8 +750,8 @@
         <mxCell id="m1FS1h_AhYa8Y0tprcel-480" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;spatial attention()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1429" y="1748.5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m1FS1h_AhYa8Y0tprcel-482" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1290" width="50" height="50" as="geometry" />
+        <mxCell id="m1FS1h_AhYa8Y0tprcel-482" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1354" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
