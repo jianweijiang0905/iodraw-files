@@ -776,6 +776,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="m1FS1h_AhYa8Y0tprcel-477" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1830" width="40" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
