@@ -335,7 +335,7 @@
           <mxGeometry x="40" y="140" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-83" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Center Crop&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="130" height="40" as="geometry" />
+          <mxGeometry x="690" y="407" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-84" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="580" y="401.5" width="60" height="66" as="geometry" />
