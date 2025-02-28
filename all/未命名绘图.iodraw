@@ -524,7 +524,7 @@
           <mxGeometry x="306" y="883" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-406" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;T-Net：Translation Network&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="453" width="340" height="40" as="geometry" />
+          <mxGeometry x="1026" y="447" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
