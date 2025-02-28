@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-79" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;T-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="361.5" width="110" height="60" as="geometry" />
+          <mxGeometry x="996" y="415" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m1FS1h_AhYa8Y0tprcel-80" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="113" y="120" width="50" height="40" as="geometry" />
