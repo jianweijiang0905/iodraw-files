@@ -3299,7 +3299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9Zm0uTLEfhTfY47BUBWw-1568" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LOSS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1180" width="200" height="100" as="geometry" />
+          <mxGeometry x="534" y="1180" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
