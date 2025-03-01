@@ -597,8 +597,8 @@
             <mxPoint x="-60" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Zm0uTLEfhTfY47BUBWw-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-395" y="1128" width="50" height="30" as="geometry" />
+        <mxCell id="9Zm0uTLEfhTfY47BUBWw-62" value="DowSample" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="1128" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
