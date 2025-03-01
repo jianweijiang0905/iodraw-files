@@ -600,6 +600,9 @@
         <mxCell id="9Zm0uTLEfhTfY47BUBWw-62" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;DowSample&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-365" y="1150" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9Zm0uTLEfhTfY47BUBWw-63" value="(8,16,16)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="1268" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
