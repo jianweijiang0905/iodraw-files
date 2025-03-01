@@ -1010,7 +1010,7 @@
             <mxRectangle width="20" height="9" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Zm0uTLEfhTfY47BUBWw-1098" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9Zm0uTLEfhTfY47BUBWw-1091">
+        <mxCell id="9Zm0uTLEfhTfY47BUBWw-1098" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9Zm0uTLEfhTfY47BUBWw-1091">
           <mxGeometry x="46" width="20" height="9" as="geometry">
             <mxRectangle width="20" height="9" as="alternateBounds" />
           </mxGeometry>
