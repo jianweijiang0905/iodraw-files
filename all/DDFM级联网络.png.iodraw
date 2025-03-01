@@ -1958,9 +1958,6 @@
             <mxPoint x="93" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Zm0uTLEfhTfY47BUBWw-71" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;16&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;strokeWidth=4;" vertex="1" parent="9Zm0uTLEfhTfY47BUBWw-64">
-          <mxGeometry x="-37.5" y="75" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9Zm0uTLEfhTfY47BUBWw-1022" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#000000;" vertex="1" parent="9Zm0uTLEfhTfY47BUBWw-64">
           <mxGeometry x="17.5" y="15" width="150" height="150" as="geometry" />
         </mxCell>
@@ -3308,10 +3305,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9Zm0uTLEfhTfY47BUBWw-72" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1120" width="30" height="40" as="geometry" />
+          <mxGeometry x="-40" y="1120" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Zm0uTLEfhTfY47BUBWw-70" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;16&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="60" y="1107" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm0uTLEfhTfY47BUBWw-71" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;16&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1215" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
