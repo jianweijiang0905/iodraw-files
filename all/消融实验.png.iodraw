@@ -646,8 +646,8 @@
             <mxPoint x="3158" y="549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-157" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;(X,Y,Z)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3178" y="519" width="130" height="60" as="geometry" />
+        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-157" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;(X,Y,Z)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3138" y="504" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8DJR8Wp3VeH_iJDZe0h2-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;Plan A&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-328" width="240" height="100" as="geometry" />
