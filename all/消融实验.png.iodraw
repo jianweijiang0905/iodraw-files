@@ -601,7 +601,7 @@
         <mxCell id="8DJR8Wp3VeH_iJDZe0h2-146" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 72px;&quot;&gt;&lt;b&gt;T-Net&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1450" y="-370" width="500" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-147" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-147" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;width=40;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="-210" as="sourcePoint" />
             <mxPoint x="1360" y="-210" as="targetPoint" />
