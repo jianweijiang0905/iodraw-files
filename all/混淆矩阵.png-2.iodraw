@@ -20,10 +20,10 @@
           <mxGeometry x="337.5683018867924" y="254.68113207547168" width="241.50943396226415" height="241.50943396226415" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--4" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;True Negative&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(TN)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="337.5683018867924" y="497.19056603773583" width="241.50943396226415" height="241.50943396226415" as="geometry" />
+          <mxGeometry x="337.5683018867924" y="499.19056603773583" width="241.50943396226415" height="241.50943396226415" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;False Positive&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(FP)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="87.0566037735849" y="496.19056603773583" width="241.50943396226415" height="241.50943396226415" as="geometry" />
+          <mxGeometry x="93.0566037735849" y="499.19056603773583" width="241.50943396226415" height="241.50943396226415" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Positive&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="89.06" y="180" width="240.94" height="72.45" as="geometry" />
