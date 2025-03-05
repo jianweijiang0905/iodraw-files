@@ -17,7 +17,7 @@
           <mxGeometry x="92.0566037735849" y="255.68113207547168" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;False Negative&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(FN)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="336.5683018867924" y="254.68113207547168" width="240" height="240" as="geometry" />
+          <mxGeometry x="335.5683018867924" y="254.68113207547168" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--4" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;True Negative&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(TN)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="337.5683018867924" y="499.19056603773583" width="241.50943396226415" height="241.50943396226415" as="geometry" />
