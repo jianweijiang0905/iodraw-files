@@ -11,7 +11,7 @@
           <mxGeometry x="262" y="940" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--13" value="&lt;font color=&quot;#ff4b45&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Prediction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="193.0188679245283" y="10" width="200" height="60" as="geometry" />
+          <mxGeometry x="299.9988679245283" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YgCW7rM37-mUgVQqBN7--2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;True Positive&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(TP)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="100" y="260" width="300" height="300" as="geometry" />
