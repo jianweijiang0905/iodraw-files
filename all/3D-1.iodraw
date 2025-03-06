@@ -341,7 +341,7 @@
           <mxGeometry x="925" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fzztSQKVRrWUDFfV336j-60" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;2*(Conv3d+IN+Relu)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="916" y="640" width="200" height="40" as="geometry" />
+          <mxGeometry x="921" y="640" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
