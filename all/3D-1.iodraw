@@ -241,7 +241,7 @@
             <mxPoint x="908.58" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fzztSQKVRrWUDFfV336j-30" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fzztSQKVRrWUDFfV336j-30" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="780" width="16" height="20" as="geometry" />
         </mxCell>
       </root>
