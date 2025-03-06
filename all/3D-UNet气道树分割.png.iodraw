@@ -8,10 +8,10 @@
           <mxGeometry x="100" y="10" width="559" height="319.28" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=3;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="7" height="50" as="geometry" />
+          <mxGeometry x="110" y="340" width="6" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-5" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=3;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="9" height="50" as="geometry" />
+          <mxGeometry x="130" y="340" width="7" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-6" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=3;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="9" height="50" as="geometry" />
