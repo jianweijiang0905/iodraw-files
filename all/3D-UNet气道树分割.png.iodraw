@@ -91,6 +91,15 @@
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-36" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=5;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="275" y="500" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DmVeYxEbEoOF0dzYRgeT-37" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=5;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DmVeYxEbEoOF0dzYRgeT-38" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=5;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DmVeYxEbEoOF0dzYRgeT-39" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=5;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="45" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
