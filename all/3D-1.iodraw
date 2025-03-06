@@ -346,7 +346,7 @@
         <mxCell id="fzztSQKVRrWUDFfV336j-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CCCC00;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1170" y="770" as="sourcePoint" />
-            <mxPoint x="1205.5" y="770" as="targetPoint" />
+            <mxPoint x="1170" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
