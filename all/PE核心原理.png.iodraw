@@ -28,6 +28,12 @@
         <mxCell id="l-SnjcabYOb1DaVuie9u-11" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=60;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="324" y="440" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l-SnjcabYOb1DaVuie9u-21" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=60;direction=east;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#000000;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="590" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l-SnjcabYOb1DaVuie9u-22" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=60;direction=east;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#000000;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="30" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
