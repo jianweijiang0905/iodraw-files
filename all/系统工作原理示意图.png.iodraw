@@ -37,10 +37,10 @@
         <mxCell id="YEW_dMsxyt8Etxmi5Qi0-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;AR可视化路径仿真系统&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="535" y="570" width="285" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YEW_dMsxyt8Etxmi5Qi0-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;width=13;" edge="1" parent="1">
+        <mxCell id="YEW_dMsxyt8Etxmi5Qi0-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;width=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="360" as="sourcePoint" />
-            <mxPoint x="960" y="420" as="targetPoint" />
+            <mxPoint x="659.5" y="490" as="sourcePoint" />
+            <mxPoint x="659.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
