@@ -62,10 +62,10 @@
           <mxGeometry x="780" y="400" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-26" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=4;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="849" y="400" width="21" height="60" as="geometry" />
+          <mxGeometry x="849" y="400" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-28" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=4;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="900" y="400" width="21" height="60" as="geometry" />
+          <mxGeometry x="900" y="400" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-29" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=3;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="683" y="295" width="10" height="65" as="geometry" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="DmVeYxEbEoOF0dzYRgeT-49" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=5;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="805" y="500" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmVeYxEbEoOF0dzYRgeT-50" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=4;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="440" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
