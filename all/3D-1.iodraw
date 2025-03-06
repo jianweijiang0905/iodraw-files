@@ -260,7 +260,10 @@
           <mxGeometry x="207" y="515" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fzztSQKVRrWUDFfV336j-37" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="235" y="515" width="10" height="10" as="geometry" />
+          <mxGeometry x="237" y="515" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fzztSQKVRrWUDFfV336j-38" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="285" y="593.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
