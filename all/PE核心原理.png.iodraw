@@ -13,6 +13,9 @@
         <mxCell id="l-SnjcabYOb1DaVuie9u-4" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=60;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l-SnjcabYOb1DaVuie9u-5" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=60;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="324" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
