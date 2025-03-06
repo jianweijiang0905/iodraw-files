@@ -244,9 +244,6 @@
         <mxCell id="fzztSQKVRrWUDFfV336j-30" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="780" width="16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fzztSQKVRrWUDFfV336j-31" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="98" y="302.5" width="16" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="fzztSQKVRrWUDFfV336j-34" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="425" width="10" height="10" as="geometry" />
         </mxCell>
@@ -270,6 +267,9 @@
         </mxCell>
         <mxCell id="fzztSQKVRrWUDFfV336j-41" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="458" y="666" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fzztSQKVRrWUDFfV336j-42" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="101.5" y="307.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
