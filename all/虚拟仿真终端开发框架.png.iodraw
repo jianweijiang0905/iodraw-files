@@ -17,10 +17,10 @@
           <mxGeometry x="-250" y="-70" width="970" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF3333;strokeWidth=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-110" width="430" height="950" as="geometry" />
+          <mxGeometry x="720" y="-110" width="430" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--12" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 40px;&quot;&gt;场景编辑&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 40px;&quot;&gt;模块&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="195" width="180" height="110" as="geometry" />
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--12" value="&lt;b style=&quot;font-size: 48px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 48px;&quot;&gt;场景编辑&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 48px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 48px;&quot;&gt;模块&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="185" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;项目依赖库、脚本、素材管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;模块&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-90" y="730" width="540" height="110" as="geometry" />
