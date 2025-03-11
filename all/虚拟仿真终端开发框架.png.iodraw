@@ -70,8 +70,8 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-432" y="-291" width="1425" height="130.87" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--32" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;RhinoX Unity SDK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-760" width="370" height="60" as="geometry" />
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--32" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;AR 渲染系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="-760" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
