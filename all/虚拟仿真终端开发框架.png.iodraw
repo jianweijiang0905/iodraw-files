@@ -61,13 +61,13 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--26" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;RhinoX Unity SDK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-985.5339805825242" width="370" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-892.3300970873787" width="410" height="596.504854368932" as="geometry" />
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-439" y="-890.3300970873787" width="410" height="596.504854368932" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-30" y="-891.71" width="1020" height="596.5" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-435" y="-290" width="1425" height="130.87" as="geometry" />
         </mxCell>
       </root>
