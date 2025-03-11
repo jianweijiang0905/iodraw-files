@@ -34,6 +34,9 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--16" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 40px;&quot;&gt;场景布局演示模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-880" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--18" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 40px;&quot;&gt;场景布局演示模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-950" width="340" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
