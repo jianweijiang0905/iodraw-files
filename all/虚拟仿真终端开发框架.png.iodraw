@@ -43,7 +43,7 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-1169" width="1680" height="879" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-510" y="-1059.5" width="1580" height="719.5" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--23" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;MR&amp;nbsp; APP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--24" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Unity 3D&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-1139.5" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
