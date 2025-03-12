@@ -86,9 +86,9 @@
           <mxGeometry x="337" y="-889.33" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="-1139.63" width="430" height="569.63" as="geometry" />
+          <mxGeometry x="1410" y="-1139.63" width="370" height="569.63" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--38" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;AR&amp;nbsp; Camera&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--38" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Ground Plane&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1430" y="-970" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
