@@ -20,7 +20,7 @@
           <mxGeometry x="-40" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y6d7yUYMAh0HyVTkE_pp-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Pred&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y6d7yUYMAh0HyVTkE_pp-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Merge&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="630" width="90" height="40" as="geometry" />
