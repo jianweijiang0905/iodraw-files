@@ -124,8 +124,8 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--57" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;TrackingProfile&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--55">
           <mxGeometry x="14" y="149.63" width="390" height="90.37" as="geometry" />
         </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--58" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Input&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;（输入系统）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--55">
-          <mxGeometry x="30" y="19.63000000000011" width="310" height="130" as="geometry" />
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--58" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Input&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;(输入系统)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--55">
+          <mxGeometry x="30" y="19.63000000000011" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--59" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 45px;&quot;&gt;&lt;b&gt;Trackable Identity&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--55">
           <mxGeometry x="14" y="260" width="390" height="90.37" as="geometry" />
