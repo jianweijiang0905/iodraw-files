@@ -104,7 +104,7 @@
           <mxGeometry width="420" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--49" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Ground Plane&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--52">
-          <mxGeometry x="14" y="202.84000000000003" width="390" height="120" as="geometry" />
+          <mxGeometry x="14" y="149.63" width="390" height="90.37" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--50" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;Big Space&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="Yu1vFfpQl8Zcr90kig9--52">
           <mxGeometry x="14" y="350.00000000000006" width="390" height="120" as="geometry" />
