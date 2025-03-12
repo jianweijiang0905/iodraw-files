@@ -140,7 +140,7 @@
           <mxGeometry x="385" y="1410" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeWidth=4;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-1330" width="2010" height="180" as="geometry" />
+          <mxGeometry x="-530" y="-1330" width="1980" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--73" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;逻辑控制脚本&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-62.5" y="-1300" width="390" height="120" as="geometry" />
@@ -150,9 +150,6 @@
         </mxCell>
         <mxCell id="Yu1vFfpQl8Zcr90kig9--75" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;数据运算功能&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="980" y="-1300" width="390" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Yu1vFfpQl8Zcr90kig9--77" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;功能控制&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="-1300" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
