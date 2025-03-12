@@ -154,6 +154,9 @@
         <mxCell id="Yu1vFfpQl8Zcr90kig9--78" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;可视化模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="265" y="-1112.97" width="320" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="Yu1vFfpQl8Zcr90kig9--79" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;可视化模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="-1290" width="320" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
