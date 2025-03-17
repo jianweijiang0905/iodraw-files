@@ -232,7 +232,7 @@
         <mxCell id="Mv_t0sBxOntkW4e5Sf9R-97" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ff0000&quot;&gt;&lt;span&gt;K-fold Cross Validation&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="525" y="350" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_LUz5RlQR4oCVqK0NSX5-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;E&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_LUz5RlQR4oCVqK0NSX5-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;E&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="590" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
