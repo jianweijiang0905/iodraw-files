@@ -13,11 +13,8 @@
         <mxCell id="58OvAnZSRdIdglybju7Q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="58OvAnZSRdIdglybju7Q-2" target="58OvAnZSRdIdglybju7Q-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58OvAnZSRdIdglybju7Q-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;weight layer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="58OvAnZSRdIdglybju7Q-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;激活函数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="250" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="58OvAnZSRdIdglybju7Q-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;激活函数&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="58OvAnZSRdIdglybju7Q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="58OvAnZSRdIdglybju7Q-7" edge="1">
           <mxGeometry relative="1" as="geometry">
