@@ -53,7 +53,7 @@
             <mxPoint x="231" y="651.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbzEcWEOmUOoyThPWKKH-3" value="&lt;b&gt;输入序列&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYy1atxLIqH9RYxPxhJ8-16">
+        <mxCell id="cbzEcWEOmUOoyThPWKKH-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输入序列&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="fYy1atxLIqH9RYxPxhJ8-16">
           <mxGeometry x="-0.0767" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
