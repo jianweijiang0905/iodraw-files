@@ -26,7 +26,7 @@
           <mxGeometry x="140" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="58OvAnZSRdIdglybju7Q-32" value="&lt;div&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 18px;&quot;&gt;Identity Mapping&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;恒等映射&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="336" y="220" width="156" height="30" as="geometry" />
+          <mxGeometry x="380" y="450" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="58OvAnZSRdIdglybju7Q-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;F(x)&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="70" height="30" as="geometry" />
