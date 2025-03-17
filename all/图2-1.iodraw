@@ -31,7 +31,7 @@
         <mxCell id="fYy1atxLIqH9RYxPxhJ8-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;位置编码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="46" y="506.25" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fYy1atxLIqH9RYxPxhJ8-9" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;编码器&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="fYy1atxLIqH9RYxPxhJ8-9" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;编码器&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-20" y="325" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fYy1atxLIqH9RYxPxhJ8-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fYy1atxLIqH9RYxPxhJ8-8" target="fYy1atxLIqH9RYxPxhJ8-7" edge="1">
