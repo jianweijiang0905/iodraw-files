@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="58OvAnZSRdIdglybju7Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;endArrow=block;endFill=1;" parent="1" target="58OvAnZSRdIdglybju7Q-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="80" as="sourcePoint" />
+            <mxPoint x="200" y="60" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="200" y="110" />
               <mxPoint x="200" y="110" />
