@@ -100,6 +100,12 @@
             <mxPoint x="120" y="53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iorDYnT_YYxEXOL12dZD-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#62874D;strokeWidth=2;" edge="1" parent="1" source="iorDYnT_YYxEXOL12dZD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="70" as="sourcePoint" />
+            <mxPoint x="120" y="73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
