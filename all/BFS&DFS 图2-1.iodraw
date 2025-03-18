@@ -326,7 +326,7 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.983;exitY=0.317;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="YUZ6vOxW5uPksGXaBkmd-5" target="YUZ6vOxW5uPksGXaBkmd-6" edge="1">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.983;exitY=0.317;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=24;strokeWidth=2;" parent="1" source="YUZ6vOxW5uPksGXaBkmd-5" target="YUZ6vOxW5uPksGXaBkmd-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
