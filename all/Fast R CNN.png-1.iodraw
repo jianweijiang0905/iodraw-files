@@ -250,8 +250,8 @@
         <mxCell id="zkMihymjFcY6XfJ-BlVJ-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=east;flipH=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="30" as="geometry" />
         </mxCell>
-        <mxCell id="zkMihymjFcY6XfJ-BlVJ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="800" width="10" height="10" as="geometry" />
+        <mxCell id="zkMihymjFcY6XfJ-BlVJ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="13" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
