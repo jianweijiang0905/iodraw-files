@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="150" y="350" width="520" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="429.5" as="sourcePoint" />
@@ -46,7 +49,7 @@
             <mxPoint x="680" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-31" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-31" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="680" y="530" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-32" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="1" vertex="1">
@@ -381,9 +384,6 @@
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#808080;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Au7PVigePDGGUV0ZkD_m-141" vertex="1">
           <mxGeometry width="410" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="150" y="350" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-143" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;Darknet-53 without FC layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#666666;fontSize=17;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="155" y="355" width="250" height="40" as="geometry" />
