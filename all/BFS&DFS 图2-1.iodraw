@@ -128,7 +128,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-45" value="" style="group;strokeWidth=2;" parent="1" vertex="1" connectable="0">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-45" value="" style="group;strokeWidth=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="600" y="150" width="540" height="440" as="geometry" />
         </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="YUZ6vOxW5uPksGXaBkmd-45" vertex="1">
