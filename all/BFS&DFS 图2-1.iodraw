@@ -43,7 +43,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-60" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=24;" parent="1" edge="1">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-60" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=24;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="220" as="sourcePoint" />
             <mxPoint x="320" y="340" as="targetPoint" />
@@ -356,7 +356,7 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="YUZ6vOxW5uPksGXaBkmd-1" target="YUZ6vOxW5uPksGXaBkmd-2" edge="1">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=24;strokeWidth=2;" parent="1" source="YUZ6vOxW5uPksGXaBkmd-1" target="YUZ6vOxW5uPksGXaBkmd-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
@@ -373,7 +373,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUZ6vOxW5uPksGXaBkmd-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=24;" parent="1" edge="1">
+        <mxCell id="YUZ6vOxW5uPksGXaBkmd-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=24;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="210" as="sourcePoint" />
             <mxPoint x="400" y="260" as="targetPoint" />
