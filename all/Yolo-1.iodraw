@@ -361,7 +361,7 @@
             <mxPoint x="610" y="59.23000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-139" value="&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Res_Block&amp;nbsp;&lt;/font&gt;* n&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-140" vertex="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-139" value="&lt;b&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Res_Block&amp;nbsp;&lt;/font&gt;* n&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-140" vertex="1">
           <mxGeometry x="402" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-141" value="" style="group;strokeWidth=3;" parent="1" vertex="1" connectable="0">
