@@ -133,7 +133,7 @@
         <mxCell id="Au7PVigePDGGUV0ZkD_m-53" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-49" vertex="1">
           <mxGeometry x="30" y="70" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Au7PVigePDGGUV0ZkD_m-54" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-49" vertex="1">
+        <mxCell id="Au7PVigePDGGUV0ZkD_m-54" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#4D4D4D;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-49" vertex="1">
           <mxGeometry x="40" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Au7PVigePDGGUV0ZkD_m-55" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CBL*5&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" parent="Au7PVigePDGGUV0ZkD_m-49" vertex="1">
