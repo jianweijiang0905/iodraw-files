@@ -405,8 +405,8 @@
         </mxCell>
         <mxCell id="JPvxY1QO_pi8iH4MzEl0-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=3.324137931034483;endWidth=5.850178359096314;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-111" y="787.91" as="sourcePoint" />
-            <mxPoint x="-81" y="787.91" as="targetPoint" />
+            <mxPoint x="-120" y="664.41" as="sourcePoint" />
+            <mxPoint x="-90" y="664.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JPvxY1QO_pi8iH4MzEl0-5" value="&lt;b style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Max pooling 2x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
