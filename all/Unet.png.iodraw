@@ -412,6 +412,9 @@
             <mxPoint x="-81" y="787.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JPvxY1QO_pi8iH4MzEl0-5" value="&lt;b style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Max pooling 2x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="561.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
