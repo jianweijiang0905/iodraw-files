@@ -61,6 +61,9 @@
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-13" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;|B|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="385" y="1037" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="y6lLKi0IPqXNxLXAFjqC-14" value="∩" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
