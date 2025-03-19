@@ -49,8 +49,8 @@
             <mxPoint x="213.44" y="1026.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wby2asSBl-3X_SE4jtTq-27" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;TP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="128" y="987" width="50" height="40" as="geometry" />
+        <mxCell id="wby2asSBl-3X_SE4jtTq-27" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;|A∩B|&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="118" y="987" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wby2asSBl-3X_SE4jtTq-28" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;TP+FN+FP&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="103.44" y="1027" width="110" height="40" as="geometry" />
