@@ -48,12 +48,12 @@
         </mxCell>
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="353.44" y="1039.82" as="sourcePoint" />
-            <mxPoint x="463.44" y="1039.5" as="targetPoint" />
+            <mxPoint x="349.71999999999997" y="1039.82" as="sourcePoint" />
+            <mxPoint x="459.71999999999997" y="1039.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-10" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;|A∩B|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="369" y="1000" width="90" height="40" as="geometry" />
+          <mxGeometry x="365.28" y="1000" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-11" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;|A|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="1037" width="50" height="40" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="383" y="1037" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-16" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1000" width="40" height="40" as="geometry" />
+          <mxGeometry x="346.28" y="1002" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
