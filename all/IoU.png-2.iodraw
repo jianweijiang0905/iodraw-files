@@ -52,8 +52,8 @@
             <mxPoint x="443.44" y="1039.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6lLKi0IPqXNxLXAFjqC-10" value="&lt;font face=&quot;Courier New&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2x|A∩B|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="323" y="1000" width="120" height="40" as="geometry" />
+        <mxCell id="y6lLKi0IPqXNxLXAFjqC-10" value="&lt;font face=&quot;Lucida Console&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2x|A∩B|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1000" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y6lLKi0IPqXNxLXAFjqC-11" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;|A|&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="1037" width="50" height="40" as="geometry" />
