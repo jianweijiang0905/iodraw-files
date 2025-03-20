@@ -888,7 +888,7 @@
           <mxGeometry x="1655" y="986" width="140" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-251" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1696.5" y="1029.5" width="55" height="55" as="geometry" />
+          <mxGeometry x="1695" y="1029.5" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-252" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1655" y="1118.14745308311" width="140" height="50" as="geometry" />
@@ -934,7 +934,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-261" value="&lt;font style=&quot;&quot; color=&quot;#4d4d4d&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Conv3D(4,2,1)+ LeakyReLU(0.2)+ResConnect&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1840.0030656934307" y="810.72" width="620" height="50" as="geometry" />
+          <mxGeometry x="1840.0030656934307" y="820" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-262" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Conv3D(3,1,1)+ LeakyReLU(0.2)+ResConnect&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1840.0030656934307" y="905.0010455764075" width="620" height="50" as="geometry" />
