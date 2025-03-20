@@ -879,7 +879,7 @@
           <mxGeometry x="1318" y="932" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QTTxMjCmEUEbMpS_83tR-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1880" y="1005" width="805.0030656934305" height="354" as="geometry" />
+          <mxGeometry x="1810" y="1030" width="805.0030656934305" height="354" as="geometry" />
         </mxCell>
         <mxCell id="QTTxMjCmEUEbMpS_83tR-11" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="QTTxMjCmEUEbMpS_83tR-21">
           <mxGeometry width="140" height="50" as="geometry" />
