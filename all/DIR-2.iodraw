@@ -617,8 +617,8 @@
             <mxPoint x="1550" y="1474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-170" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LCDF：Lung Contour Deformation Features&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1431" y="840" width="780" height="60" as="geometry" />
+        <mxCell id="Y4bETblJP3OZInyuoBMP-170" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 42px;&quot;&gt;LCDF：Lung Contour Deformation Features&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="840" width="900" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-171" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="375" y="600" width="50" height="40" as="geometry" />
