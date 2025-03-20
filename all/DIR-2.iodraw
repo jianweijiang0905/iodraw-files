@@ -539,7 +539,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-116" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;LCDF Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="Y4bETblJP3OZInyuoBMP-116" value="&lt;font color=&quot;#333333&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;LCDF Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="924" y="610" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.111;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="Y4bETblJP3OZInyuoBMP-29" target="Y4bETblJP3OZInyuoBMP-97" edge="1">
@@ -705,12 +705,12 @@
           <mxGeometry x="320" y="420" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-200" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;运动相位CT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="320" y="820" width="150" height="40" as="geometry" />
+          <mxGeometry x="310" y="810" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-201" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;参考肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="590" y="420" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-202" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;运动肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="Y4bETblJP3OZInyuoBMP-202" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;运动肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="585" y="820" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-203" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="Y4bETblJP3OZInyuoBMP-113" edge="1">
