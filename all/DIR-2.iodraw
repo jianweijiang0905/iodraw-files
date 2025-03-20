@@ -885,7 +885,7 @@
           <mxGeometry x="1655" y="891" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-250" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#000000;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1658" y="986" width="140" height="12" as="geometry" />
+          <mxGeometry x="1655" y="986" width="140" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-251" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1696.5" y="1029.5" width="55" height="55" as="geometry" />
