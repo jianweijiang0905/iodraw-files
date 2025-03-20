@@ -411,10 +411,10 @@
             <mxRectangle width="15" height="15" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-135" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#d5e8d4;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-135" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#00CC00;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="571.5" y="740" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-137" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#f8cecc;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-137" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#FF6666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="631.5" y="740" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-138" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;shadow=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#e1d5e7;strokeWidth=3;" parent="1" vertex="1">
