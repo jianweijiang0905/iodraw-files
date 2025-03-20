@@ -617,7 +617,7 @@
             <mxPoint x="1550" y="1474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-170" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 42px;&quot;&gt;LCDF：Lung Contour Deformation Features&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="Y4bETblJP3OZInyuoBMP-170" value="&lt;font color=&quot;#333333&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 42px;&quot;&gt;LCDF：Lung Contour Deformation Features&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1430" y="840" width="900" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-171" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
@@ -722,7 +722,7 @@
         <mxCell id="Y4bETblJP3OZInyuoBMP-204" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1214" y="946.25" width="64" height="487.5" as="geometry" />
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-205" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;32*LCDFs Cubes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="Y4bETblJP3OZInyuoBMP-205" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;32*LCDFs Cubes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1195" y="1503" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-206" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;LCDF Decoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
