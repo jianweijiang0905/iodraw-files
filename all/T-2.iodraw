@@ -322,8 +322,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsjEJYPAnIxCE_zO7icn-91" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;T-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="830" y="240" width="110" height="60" as="geometry" />
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-91" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;T-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="815" y="235" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-92" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="203" y="100" width="50" height="40" as="geometry" />
