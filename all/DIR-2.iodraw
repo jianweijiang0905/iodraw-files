@@ -912,7 +912,7 @@
           <mxGeometry x="185.00306569343047" y="304" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ivD1mztT-kAhPEMa5JhU-2" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;LCDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1285" width="240" height="70" as="geometry" />
+          <mxGeometry x="940" y="1307" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
