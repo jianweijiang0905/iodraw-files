@@ -908,8 +908,8 @@
         <mxCell id="FN07L5FlEkS8RXMXQ-Fa-265" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Conv3D(3,1,1)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="1840.0030656934307" y="1119" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WSpPk_gUghz6i-GL1Bi3-1" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;CDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1463" width="120" height="40" as="geometry" />
+        <mxCell id="WSpPk_gUghz6i-GL1Bi3-1" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;CDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1124" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
