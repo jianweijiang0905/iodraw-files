@@ -619,7 +619,7 @@
         <mxCell id="8DJR8Wp3VeH_iJDZe0h2-151" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;CDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="602" y="1080" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;width=30;endWidth=75.71428571428572;endSize=19.116666666666667;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="8DJR8Wp3VeH_iJDZe0h2-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;width=40;endWidth=75.71428571428572;endSize=19.116666666666667;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1122" y="963" as="sourcePoint" />
             <mxPoint x="1402" y="963" as="targetPoint" />
