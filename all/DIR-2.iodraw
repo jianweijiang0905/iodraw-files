@@ -911,11 +911,8 @@
         <mxCell id="QTTxMjCmEUEbMpS_83tR-20" value="&lt;font size=&quot;1&quot; color=&quot;#4d4d4d&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Conv3D(3,1,1)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="QTTxMjCmEUEbMpS_83tR-21" vertex="1">
           <mxGeometry x="185.00306569343047" y="304" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ivD1mztT-kAhPEMa5JhU-1" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;编码压缩&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1770" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ivD1mztT-kAhPEMa5JhU-2" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;CDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1144" width="220" height="70" as="geometry" />
+        <mxCell id="ivD1mztT-kAhPEMa5JhU-2" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 48px;&quot;&gt;LCDF-Net&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1280" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
