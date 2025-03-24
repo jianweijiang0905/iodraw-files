@@ -61,8 +61,8 @@
             <mxPoint x="863" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="628" width="50" height="30" as="geometry" />
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-20" value="医疗中的数字图像与通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="628" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
