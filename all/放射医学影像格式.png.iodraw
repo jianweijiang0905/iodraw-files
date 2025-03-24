@@ -7,7 +7,7 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-4" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 28px;&quot;&gt;医学影像格式&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;shadow=1;perimeterSpacing=14;strokeColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;DICOM&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;DICOM&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontColor=#000000;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;NIFTI&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
@@ -19,10 +19,10 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;NRRD&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-9" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;PAR/REC&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PAR/REC&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-10" value="&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;MINC&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;MINC&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.511;exitY=0.88;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="TO5Tq38z6HFEgLuyQ0up-4" target="TO5Tq38z6HFEgLuyQ0up-5">
