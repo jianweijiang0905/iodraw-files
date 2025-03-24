@@ -25,12 +25,6 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.519;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TO5Tq38z6HFEgLuyQ0up-5" target="TO5Tq38z6HFEgLuyQ0up-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="510" as="sourcePoint" />
-            <mxPoint x="550" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
