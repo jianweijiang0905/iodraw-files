@@ -17,7 +17,10 @@
           <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
