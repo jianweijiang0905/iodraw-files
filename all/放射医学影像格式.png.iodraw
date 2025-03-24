@@ -10,6 +10,12 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
