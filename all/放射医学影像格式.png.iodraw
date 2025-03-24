@@ -76,8 +76,8 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;飞利浦MRI扫描&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="615" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TO5Tq38z6HFEgLuyQ0up-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;医学影像NetCDF工具包&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="610" width="220" height="40" as="geometry" />
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;医学影像&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetCDF工具包&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="605" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
