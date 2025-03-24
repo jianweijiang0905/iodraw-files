@@ -70,6 +70,9 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mayo医疗成像&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="620" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TO5Tq38z6HFEgLuyQ0up-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mayo医疗成像&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
