@@ -381,8 +381,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaZbx1uJCQesSPIVcVlM-4" value="BFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="qaZbx1uJCQesSPIVcVlM-4" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;BFS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
