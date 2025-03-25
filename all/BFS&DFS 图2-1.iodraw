@@ -175,7 +175,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qaZbx1uJCQesSPIVcVlM-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qaZbx1uJCQesSPIVcVlM-1" value="" style="group;strokeWidth=1;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="150" width="540" height="440" as="geometry" />
         </mxCell>
         <mxCell id="YUZ6vOxW5uPksGXaBkmd-48" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontSize=24;strokeWidth=2;fontStyle=1;fontColor=#333333;spacing=2;" parent="qaZbx1uJCQesSPIVcVlM-1" edge="1">
