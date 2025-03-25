@@ -36,7 +36,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pqsyWCd68cbHOtWqJjvf-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontColor=#333333;" parent="1" edge="1">
+        <mxCell id="pqsyWCd68cbHOtWqJjvf-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontColor=#333333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="360" as="sourcePoint" />
             <mxPoint x="350" y="390" as="targetPoint" />
