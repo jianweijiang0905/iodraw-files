@@ -46,9 +46,6 @@
         <mxCell id="PRKlhFJJPwJoUC5JfIpQ-38" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#FFFFFF;" vertex="1" parent="PRKlhFJJPwJoUC5JfIpQ-20">
           <mxGeometry x="70" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PRKlhFJJPwJoUC5JfIpQ-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#FFFFFF;" vertex="1" parent="PRKlhFJJPwJoUC5JfIpQ-20">
-          <mxGeometry x="53" y="53" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="PRKlhFJJPwJoUC5JfIpQ-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="280" width="120" height="120" as="geometry" />
         </mxCell>
