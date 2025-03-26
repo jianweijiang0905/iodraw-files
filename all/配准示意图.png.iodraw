@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRKlhFJJPwJoUC5JfIpQ-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FFFFFF;curved=1;strokeWidth=2;" edge="1" parent="PRKlhFJJPwJoUC5JfIpQ-31" source="PRKlhFJJPwJoUC5JfIpQ-37" target="PRKlhFJJPwJoUC5JfIpQ-38">
+        <mxCell id="PRKlhFJJPwJoUC5JfIpQ-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#FFFFFF;curved=1;strokeWidth=1.5;" edge="1" parent="PRKlhFJJPwJoUC5JfIpQ-31" source="PRKlhFJJPwJoUC5JfIpQ-37" target="PRKlhFJJPwJoUC5JfIpQ-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="180" as="sourcePoint" />
             <mxPoint x="250" y="156" as="targetPoint" />
