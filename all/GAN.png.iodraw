@@ -40,8 +40,8 @@
         <mxCell id="C6bC4IHrgs2WGqtqFClp-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;D(x)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C6bC4IHrgs2WGqtqFClp-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;D(x)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="560" width="60" height="40" as="geometry" />
+        <mxCell id="C6bC4IHrgs2WGqtqFClp-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;G(x)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
