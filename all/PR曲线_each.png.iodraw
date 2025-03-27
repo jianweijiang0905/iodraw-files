@@ -22,6 +22,12 @@
         <mxCell id="JbTbemfZusqo4cV8WkNl-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（b）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="760" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JbTbemfZusqo4cV8WkNl-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（a）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JbTbemfZusqo4cV8WkNl-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（b）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1150" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
