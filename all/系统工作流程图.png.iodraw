@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram id="GAZkP5RWR5-18F6DjqVv" name="第 1 页">
-    <mxGraphModel dx="974" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;术中胸廓&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-59" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=3;curved=0;strokeColor=#CCCC00;exitX=0.499;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="sourcePoint" />
+            <mxPoint x="660.0799999999999" y="488.83000000000004" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
