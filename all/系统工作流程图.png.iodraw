@@ -93,9 +93,12 @@
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-52" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=3;curved=0;strokeColor=#CCCC00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="380" as="sourcePoint" />
-            <mxPoint x="840" y="380" as="targetPoint" />
+            <mxPoint x="720" y="314.58" as="sourcePoint" />
+            <mxPoint x="600" y="314.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
