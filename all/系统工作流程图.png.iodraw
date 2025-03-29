@@ -199,8 +199,8 @@
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-163" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=29;direction=south;fontStyle=4;html=1;whiteSpace=wrap;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="9TW-R6-2zhGhpHuiEAHW-159">
           <mxGeometry x="39.705882352941174" width="35.294117647058826" height="59.99999999999996" as="geometry" />
         </mxCell>
-        <mxCell id="9TW-R6-2zhGhpHuiEAHW-165" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="525" y="970" width="180" height="120" as="geometry" />
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-165" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1050" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
