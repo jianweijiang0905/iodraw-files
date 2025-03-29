@@ -116,7 +116,7 @@
           <mxGeometry y="2.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-127" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-74" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="9TW-R6-2zhGhpHuiEAHW-127">
           <mxGeometry x="58.15384615384616" y="30.476190476190474" width="13.076923076923078" height="30.476190476190474" as="geometry" />
