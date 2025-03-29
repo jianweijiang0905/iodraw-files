@@ -58,8 +58,8 @@
             <mxPoint x="540" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TW-R6-2zhGhpHuiEAHW-40" value="桌面客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="358" width="80" height="30" as="geometry" />
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-40" value="计算终端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="358" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
