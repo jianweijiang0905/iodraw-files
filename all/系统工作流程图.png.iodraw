@@ -208,6 +208,12 @@
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-168" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="860" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-169" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="860" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-170" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
