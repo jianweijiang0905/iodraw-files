@@ -13,8 +13,8 @@
             <mxPoint x="70.000746856443" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NLowhJFb22dQ7jYMd92E-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;虚拟现实（MR)）头盔&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="160" width="220" height="40" as="geometry" />
+        <mxCell id="NLowhJFb22dQ7jYMd92E-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;虚拟现实（MR)头盔&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="160" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
