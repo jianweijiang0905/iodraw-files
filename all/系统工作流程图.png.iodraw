@@ -85,7 +85,7 @@
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-52" value="" style="endArrow=block;html=1;rounded=1;endFill=1;strokeWidth=3;curved=0;strokeColor=#CCCC00;" edge="1" parent="9TW-R6-2zhGhpHuiEAHW-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="95" y="45" as="sourcePoint" />
-            <mxPoint x="180" y="45" as="targetPoint" />
+            <mxPoint x="190" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;胸廓数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9TW-R6-2zhGhpHuiEAHW-69">
@@ -113,7 +113,7 @@
           <mxGeometry x="260" y="468.75" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-137" value="" style="group" vertex="1" connectable="0" parent="9TW-R6-2zhGhpHuiEAHW-127">
-          <mxGeometry width="65.29487179487182" height="80.00000000000001" as="geometry" />
+          <mxGeometry x="40" y="1.25" width="65.29487179487182" height="80.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-74" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="9TW-R6-2zhGhpHuiEAHW-137">
           <mxGeometry x="53.30769230769233" y="30.476190476190474" width="11.987179487179489" height="30.476190476190474" as="geometry" />
