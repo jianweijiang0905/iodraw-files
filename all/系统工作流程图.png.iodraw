@@ -64,6 +64,9 @@
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;气道分割重建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="474" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9TW-R6-2zhGhpHuiEAHW-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;气道分割重建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
