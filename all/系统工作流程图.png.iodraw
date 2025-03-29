@@ -101,10 +101,10 @@
           <mxGeometry y="75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-70" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="484" y="120" width="115" height="67.5" as="geometry" />
+          <mxGeometry x="484" y="126" width="115" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-64" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;结节分割&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9TW-R6-2zhGhpHuiEAHW-70">
-          <mxGeometry x="15" y="37.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="15" y="35.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9TW-R6-2zhGhpHuiEAHW-68" value="" style="group" vertex="1" connectable="0" parent="9TW-R6-2zhGhpHuiEAHW-70">
           <mxGeometry x="5" width="110" height="40" as="geometry" />
