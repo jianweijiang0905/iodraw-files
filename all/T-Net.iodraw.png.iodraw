@@ -337,11 +337,11 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-95" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 20px;&quot;&gt;Center Crop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="370" y="230" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tsjEJYPAnIxCE_zO7icn-96" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=4;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-96" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="354" y="280" width="60" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;k&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="414" y="293" width="30" height="40" as="geometry" />
+          <mxGeometry x="420" y="288" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-98" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="384" y="401" width="60" height="66" as="geometry" />
