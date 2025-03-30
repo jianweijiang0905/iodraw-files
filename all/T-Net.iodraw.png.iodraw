@@ -340,8 +340,8 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-96" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="354" y="280" width="60" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="tsjEJYPAnIxCE_zO7icn-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;k&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="420" y="288" width="30" height="40" as="geometry" />
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-97" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;K&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="415" y="288" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-98" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=20;direction=south;fontStyle=4;html=1;whiteSpace=wrap;dashed=1;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="384" y="401" width="60" height="66" as="geometry" />
