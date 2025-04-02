@@ -41,13 +41,16 @@
           <mxGeometry x="115" y="320" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GtJInFLwN7C7QC6ahkEb-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;均匀降采样&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="400" width="130" height="40" as="geometry" />
+          <mxGeometry x="115" y="380" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GtJInFLwN7C7QC6ahkEb-17" value="" style="endArrow=block;html=1;rounded=1;curved=0;endFill=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtJInFLwN7C7QC6ahkEb-15" target="GtJInFLwN7C7QC6ahkEb-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="380" as="sourcePoint" />
             <mxPoint x="370" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GtJInFLwN7C7QC6ahkEb-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;均匀降采样&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
