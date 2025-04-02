@@ -62,7 +62,7 @@
           <mxGeometry x="530" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GtJInFLwN7C7QC6ahkEb-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;移除错误重建区域&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="235" width="130" height="60" as="geometry" />
+          <mxGeometry x="533" y="235" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GtJInFLwN7C7QC6ahkEb-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;拉普拉斯&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 20px; background-color: initial;&quot;&gt;平滑&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="535" y="340" width="130" height="60" as="geometry" />
