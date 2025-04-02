@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GtJInFLwN7C7QC6ahkEb-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="GtJInFLwN7C7QC6ahkEb-2" value="气道树分割模型&lt;div&gt;掩膜结果（.nii）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GtJInFLwN7C7QC6ahkEb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;开始&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GtJInFLwN7C7QC6ahkEb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;开始&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
