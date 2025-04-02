@@ -37,11 +37,14 @@
             <mxPoint x="350" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GtJInFLwN7C7QC6ahkEb-12" value="" style="endArrow=block;html=1;rounded=1;curved=0;endFill=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtJInFLwN7C7QC6ahkEb-7">
+        <mxCell id="GtJInFLwN7C7QC6ahkEb-12" value="" style="endArrow=block;html=1;rounded=1;curved=0;endFill=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtJInFLwN7C7QC6ahkEb-7" target="GtJInFLwN7C7QC6ahkEb-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="290" as="sourcePoint" />
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GtJInFLwN7C7QC6ahkEb-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;均匀降采样&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
