@@ -37,11 +37,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-11" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;G(X)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="425" y="710" width="70" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-11" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;G(X)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="422" y="707" width="77" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-12" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="324" y="590" width="40" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-12" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;X&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="327" y="589" width="35" height="43" as="geometry" />
         </mxCell>
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;flipH=1;size=70;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="530" y="60.00000000000001" width="80" height="230" as="geometry" />
