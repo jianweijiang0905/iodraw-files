@@ -343,8 +343,8 @@
             <mxPoint x="180" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or5XUqsXZ3Q0nczb70YE-128" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;结节质心（X，Y，Z）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-9" y="944" width="193" height="30" as="geometry" />
+        <mxCell id="Or5XUqsXZ3Q0nczb70YE-128" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;结节质心（X，Y，Z）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2" y="944" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Or5XUqsXZ3Q0nczb70YE-130" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;全部边缘填充至（256,256,128）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="470" y="1015" width="290" height="40" as="geometry" />
