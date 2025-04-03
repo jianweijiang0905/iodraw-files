@@ -102,11 +102,11 @@
         <mxCell id="o1SlNjr3CvOYOskguKZC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="o1SlNjr3CvOYOskguKZC-34" target="o1SlNjr3CvOYOskguKZC-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1SlNjr3CvOYOskguKZC-34" value="基于&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;KAN&lt;/font&gt;网络的血压模型构建" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="o1SlNjr3CvOYOskguKZC-34" value="基于深度形变映射的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="455" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-35" value="连续血压监测系统开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="460" y="430" width="130" height="40" as="geometry" />
+          <mxGeometry x="455" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="120" height="210" as="geometry" />
