@@ -704,14 +704,14 @@
         <mxCell id="Y4bETblJP3OZInyuoBMP-199" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;参考相位CT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="320" y="420" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-200" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;运动相位CT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="320" y="820" width="150" height="40" as="geometry" />
+        <mxCell id="Y4bETblJP3OZInyuoBMP-200" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;运动相位CT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="305" y="815" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-201" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;参考肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="590" y="420" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y4bETblJP3OZInyuoBMP-202" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;运动肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="585" y="820" width="170" height="40" as="geometry" />
+        <mxCell id="Y4bETblJP3OZInyuoBMP-202" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;运动肺质轮廓&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="570" y="815" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y4bETblJP3OZInyuoBMP-203" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="Y4bETblJP3OZInyuoBMP-113" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
