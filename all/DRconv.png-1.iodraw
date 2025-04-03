@@ -46,8 +46,8 @@
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;flipH=1;size=70;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="530" y="60.00000000000001" width="80" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-14" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;k x k 卷积&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="375" y="150" width="130" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-14" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;k x k 卷积&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="368" y="147" width="144" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-15" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;flipH=1;size=70;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1020" y="335" width="90" height="230" as="geometry" />
@@ -61,8 +61,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-18" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;ArgMax(·)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="635" y="150" width="140" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-18" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;ArgMax(·)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="631" y="147" width="149" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-62" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="810" y="400" width="120" height="120" as="geometry" />
