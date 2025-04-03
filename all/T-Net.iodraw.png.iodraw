@@ -328,8 +328,8 @@
         <mxCell id="tsjEJYPAnIxCE_zO7icn-92" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="198" y="100" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tsjEJYPAnIxCE_zO7icn-93" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 18px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="50" height="40" as="geometry" />
+        <mxCell id="tsjEJYPAnIxCE_zO7icn-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;256&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="120" y="175" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tsjEJYPAnIxCE_zO7icn-94" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;128&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="125" y="120" width="60" height="40" as="geometry" />
