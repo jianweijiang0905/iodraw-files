@@ -155,6 +155,9 @@
         <mxCell id="6L8llH4s7WavAtLUChOt-4" value="&lt;b&gt;第&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;章&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;绪论&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6L8llH4s7WavAtLUChOt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
