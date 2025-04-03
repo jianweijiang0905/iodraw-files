@@ -22,7 +22,7 @@
         <mxCell id="o1SlNjr3CvOYOskguKZC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1SlNjr3CvOYOskguKZC-7" target="o1SlNjr3CvOYOskguKZC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1SlNjr3CvOYOskguKZC-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ENB辅助系统构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="o1SlNjr3CvOYOskguKZC-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;基于体表形变的结节偏移预测模型及ENB辅助系统研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="315" y="60" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1SlNjr3CvOYOskguKZC-9" target="o1SlNjr3CvOYOskguKZC-17">
