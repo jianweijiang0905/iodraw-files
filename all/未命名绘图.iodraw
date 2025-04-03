@@ -106,7 +106,7 @@
           <mxGeometry x="455" y="360" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-35" value="连续血压监测系统开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="485" y="430" width="110" height="40" as="geometry" />
+          <mxGeometry x="460" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="120" height="210" as="geometry" />
