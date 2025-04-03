@@ -474,8 +474,8 @@
             <mxPoint x="1010" y="469.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-152" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="990" y="570" width="40" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-152" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="992" y="567" width="37" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-153" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;指导掩码&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Guide Mask)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="800" y="525" width="140" height="60" as="geometry" />
