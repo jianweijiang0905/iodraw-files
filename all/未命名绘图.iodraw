@@ -94,7 +94,7 @@
         <mxCell id="o1SlNjr3CvOYOskguKZC-32" value="基于SAM的结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="455" y="300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o1SlNjr3CvOYOskguKZC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="o1SlNjr3CvOYOskguKZC-34" target="o1SlNjr3CvOYOskguKZC-35" edge="1">
+        <mxCell id="o1SlNjr3CvOYOskguKZC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="o1SlNjr3CvOYOskguKZC-34" target="o1SlNjr3CvOYOskguKZC-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-34" value="基于深度形变映射的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="o1SlNjr3CvOYOskguKZC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="40" y="300" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="6L8llH4s7WavAtLUChOt-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o1SlNjr3CvOYOskguKZC-24">
+        <mxCell id="6L8llH4s7WavAtLUChOt-6" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="o1SlNjr3CvOYOskguKZC-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="360" as="sourcePoint" />
             <mxPoint x="390" y="360" as="targetPoint" />
