@@ -84,7 +84,7 @@
         <mxCell id="o1SlNjr3CvOYOskguKZC-26" value="深度学习理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="225" y="365" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o1SlNjr3CvOYOskguKZC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="o1SlNjr3CvOYOskguKZC-28" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="225" y="420" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o1SlNjr3CvOYOskguKZC-30" target="o1SlNjr3CvOYOskguKZC-36">
