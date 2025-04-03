@@ -101,7 +101,7 @@
           <mxGeometry x="455" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-35" value="基于混合现实的手术规划模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="455" y="450" width="130" height="40" as="geometry" />
+          <mxGeometry x="455" y="440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="120" height="210" as="geometry" />
