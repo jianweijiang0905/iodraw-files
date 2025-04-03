@@ -483,8 +483,8 @@
         <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-154" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;shadow=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;fillColor=default;direction=north;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="530" y="290" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-155" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;M&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="500" y="300" width="40" height="40" as="geometry" />
+        <mxCell id="PAo3rpx7e3Z0aZ-RXvAj-155" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;M&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;labelBackgroundColor=default;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="501" y="300" width="38" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
