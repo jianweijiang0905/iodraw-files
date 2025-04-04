@@ -282,7 +282,7 @@
           <mxGeometry x="190" y="830" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-49" value="气道树三维分割重建" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="560" y="830" width="140" height="40" as="geometry" />
+          <mxGeometry x="560" y="830" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-50" value="手术规划算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="140" height="40" as="geometry" />
