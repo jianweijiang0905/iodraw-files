@@ -51,7 +51,7 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-13" value="&lt;b&gt;第6章&lt;/b&gt;&lt;div&gt;&lt;b&gt;总结与展望&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="760" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-19" value="医学影像理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-19" value="医学影像理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="850" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-21">
@@ -59,10 +59,10 @@
             <mxPoint x="312.5" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-21" value="深度学习理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-21" value="深度学习理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="905" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-22" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-22" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="960" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-25" value="基于SAM的两阶段结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
