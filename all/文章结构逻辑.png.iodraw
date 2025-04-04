@@ -244,9 +244,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="860" as="sourcePoint" />
             <mxPoint x="200" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="890" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-21">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=6;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="880" as="sourcePoint" />
             <mxPoint x="130" y="830" as="targetPoint" />
