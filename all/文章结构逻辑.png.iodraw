@@ -300,9 +300,6 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="190" y="830" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-47" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="440" y="810" width="160" height="270" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
