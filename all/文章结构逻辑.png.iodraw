@@ -10,6 +10,9 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="840" width="160" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-52" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="860" width="150" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="o1SlNjr3CvOYOskguKZC-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="385" as="sourcePoint" />
@@ -178,9 +181,9 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-9" value="&lt;b&gt;第&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;2&lt;/font&gt;章&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;相关理论基础&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-11">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-11" target="VmpiLydmbHpW9dCoP1Q8-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="859.9999999999998" as="targetPoint" />
+            <mxPoint x="520" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="545" y="770" />
               <mxPoint x="545" y="810" />
@@ -210,6 +213,12 @@
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-22" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="950" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-25" value="基于SAM的两阶段结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="401" y="870" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-27" value="基于深度形变的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="400" y="930" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-28" value="基于混合现实的手术规划模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="934" width="140" height="50" as="geometry" />
