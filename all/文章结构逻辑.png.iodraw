@@ -216,18 +216,6 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-28" value="基于混合现实的手术规划模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="410" y="944" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="800" y="810" width="120" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-30" value="展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="880" y="840" width="20" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-32" target="VmpiLydmbHpW9dCoP1Q8-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-32" value="总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="820" y="840" width="20" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=6;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="870" as="sourcePoint" />
@@ -324,6 +312,21 @@
             <mxPoint x="760" y="1070" as="sourcePoint" />
             <mxPoint x="810" y="1070" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="810" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;dashed=1;dashPattern=12 12;" vertex="1" parent="VmpiLydmbHpW9dCoP1Q8-66">
+          <mxGeometry width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-30" value="展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="VmpiLydmbHpW9dCoP1Q8-66">
+          <mxGeometry x="80" y="30" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VmpiLydmbHpW9dCoP1Q8-66" source="VmpiLydmbHpW9dCoP1Q8-32" target="VmpiLydmbHpW9dCoP1Q8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-32" value="总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="VmpiLydmbHpW9dCoP1Q8-66">
+          <mxGeometry x="20" y="30" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
