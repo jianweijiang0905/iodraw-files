@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-46" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="190" y="830" width="150" height="170" as="geometry" />
+          <mxGeometry x="190" y="840" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="850" width="160" height="150" as="geometry" />
@@ -191,18 +191,18 @@
           <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-19" value="医学影像理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="840" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="850" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312.5" y="915" as="targetPoint" />
+            <mxPoint x="312.5" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-21" value="深度学习理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="895" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="905" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-22" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="950" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="960" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-25" value="基于SAM的两阶段结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="581" y="860" width="130" height="50" as="geometry" />
@@ -227,25 +227,25 @@
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=6;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="860" as="sourcePoint" />
-            <mxPoint x="200" y="810" as="targetPoint" />
+            <mxPoint x="150" y="870" as="sourcePoint" />
+            <mxPoint x="200" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="890" />
+              <mxPoint x="200" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=6;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="880" as="sourcePoint" />
-            <mxPoint x="130" y="830" as="targetPoint" />
+            <mxPoint x="80" y="890" as="sourcePoint" />
+            <mxPoint x="130" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=6;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-37" target="VmpiLydmbHpW9dCoP1Q8-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="970" as="sourcePoint" />
-            <mxPoint x="245" y="915" as="targetPoint" />
+            <mxPoint x="160" y="980" as="sourcePoint" />
+            <mxPoint x="245" y="925" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="940" />
+              <mxPoint x="200" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -253,28 +253,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-15" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry y="840" width="20" height="150" as="geometry" />
+          <mxGeometry y="850" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-17" target="VmpiLydmbHpW9dCoP1Q8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-17" value="研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="20" height="150" as="geometry" />
+          <mxGeometry x="40" y="850" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-18" value="存在问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="80" y="840" width="20" height="150" as="geometry" />
+          <mxGeometry x="80" y="850" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-37" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="120" y="840" width="20" height="150" as="geometry" />
+          <mxGeometry x="120" y="850" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-18" target="VmpiLydmbHpW9dCoP1Q8-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="1030" as="sourcePoint" />
-            <mxPoint x="100" y="1030" as="targetPoint" />
+            <mxPoint x="80" y="1040" as="sourcePoint" />
+            <mxPoint x="100" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-44" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="830" width="160" height="170" as="geometry" />
+          <mxGeometry x="-10" y="840" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-7" target="VmpiLydmbHpW9dCoP1Q8-44">
           <mxGeometry relative="1" as="geometry">
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-62" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1020" width="150" height="170" as="geometry" />
+          <mxGeometry x="390" y="840" width="340" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
