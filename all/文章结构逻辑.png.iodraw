@@ -187,18 +187,18 @@
           <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-19" value="医学影像处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="840" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="840" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285" y="915" as="targetPoint" />
+            <mxPoint x="312.5" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-21" value="深度学习理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="895" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="895" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-22" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="950" width="105" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="950" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VmpiLydmbHpW9dCoP1Q8-29">
           <mxGeometry relative="1" as="geometry">
@@ -291,7 +291,7 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-44" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-10" y="830" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-7" target="VmpiLydmbHpW9dCoP1Q8-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="850" as="targetPoint" />
             <mxPoint x="50" y="790" as="sourcePoint" />
