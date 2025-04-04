@@ -287,8 +287,8 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-50" value="手术规划算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="900" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="550" y="800" width="210" height="210" as="geometry" />
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="840" width="160" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
