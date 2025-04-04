@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-11" value="&lt;b&gt;第&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;3/4/5&lt;/font&gt;章&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ENB辅助系统相关算法研究及功能开发&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="481" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="481" y="710" width="139" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-13" target="VmpiLydmbHpW9dCoP1Q8-29">
           <mxGeometry relative="1" as="geometry" />
@@ -294,7 +294,7 @@
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-50" value="手术规划算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="900" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="550" y="850" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-11" target="VmpiLydmbHpW9dCoP1Q8-51">
