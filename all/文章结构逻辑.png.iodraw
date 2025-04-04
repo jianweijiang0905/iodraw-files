@@ -300,6 +300,12 @@
             <mxPoint x="520" y="800" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.541;exitY=1.036;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="VmpiLydmbHpW9dCoP1Q8-11" target="VmpiLydmbHpW9dCoP1Q8-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="566" y="889" as="targetPoint" />
+            <mxPoint x="640" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
