@@ -201,9 +201,9 @@
           <mxGeometry x="217.5" y="950" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-25" value="基于SAM的结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="400" y="830" width="130" height="40" as="geometry" />
+          <mxGeometry x="400" y="850" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VmpiLydmbHpW9dCoP1Q8-27" value="基于深度形变映射的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="VmpiLydmbHpW9dCoP1Q8-27" value="基于深度形变的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="400" y="910" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-28" value="基于混合现实的手术规划模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
