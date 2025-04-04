@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-52" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="850" width="160" height="150" as="geometry" />
+          <mxGeometry x="390" y="850" width="155" height="150" as="geometry" />
         </mxCell>
         <mxCell id="o1SlNjr3CvOYOskguKZC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="o1SlNjr3CvOYOskguKZC-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +204,7 @@
           <mxGeometry x="217.5" y="950" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-25" value="基于SAM的两阶段结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="400" y="855" width="130" height="50" as="geometry" />
+          <mxGeometry x="400" y="870" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VmpiLydmbHpW9dCoP1Q8-27" value="基于深度形变的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="400" y="935" width="130" height="50" as="geometry" />
