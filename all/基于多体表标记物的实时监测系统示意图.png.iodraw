@@ -8,10 +8,10 @@
           <mxGeometry x="160" y="120" width="682.25" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XcPcpSV5M9TxEoqQYAoi-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;（a）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="278" y="363" width="64" height="34" as="geometry" />
+          <mxGeometry x="271" y="350" width="64" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="XcPcpSV5M9TxEoqQYAoi-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;（b）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="630" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="XcPcpSV5M9TxEoqQYAoi-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;（b）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="638" y="363" width="65" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
