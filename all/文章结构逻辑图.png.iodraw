@@ -13,6 +13,9 @@
         <mxCell id="84aHz3qa12oFgQUH5IgG-4" value="&lt;p style=&quot;line-height: 120%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%; font-family: 宋体;&quot;&gt;术中肺结节偏移预测模型研究及&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;p style=&quot;line-height: 120%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;ENB&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%; font-family: 宋体;&quot;&gt;辅助系统开发&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="-832" width="520" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="84aHz3qa12oFgQUH5IgG-5" value="术中肺结节偏移预测模型研究及ENB辅助系统开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="-682" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
