@@ -10,8 +10,8 @@
         <mxCell id="84aHz3qa12oFgQUH5IgG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="970" y="-400" width="640" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="84aHz3qa12oFgQUH5IgG-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2215" y="-602" width="50" height="30" as="geometry" />
+        <mxCell id="84aHz3qa12oFgQUH5IgG-3" value="&lt;p style=&quot;line-height: 120%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot;&gt;术中肺结节偏移预测模型研究及&lt;/span&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font face=&quot;ykPq9gn3v8CydtDqFNG2&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;line-height: 120%;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;ykPq9gn3v8CydtDqFNG2&quot;&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;ENB&lt;/span&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot;&gt;辅助系统开发&lt;/span&gt;&lt;/font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 26pt; line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="-677" width="510" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
