@@ -179,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84aHz3qa12oFgQUH5IgG-87" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;总结&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" parent="84aHz3qa12oFgQUH5IgG-83" vertex="1">
-          <mxGeometry x="20" y="24.28571428571429" width="20" height="121.42857142857144" as="geometry" />
+          <mxGeometry x="20" y="24.28571428571429" width="22" height="121.42857142857144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
