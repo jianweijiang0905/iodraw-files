@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
   <diagram id="rdqeYQQ_MEDl0sY0_7pf" name="第 1 页">
-    <mxGraphModel dx="1030" dy="70" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="167" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
         <mxCell id="84aHz3qa12oFgQUH5IgG-60" value="重建&amp;amp;规划理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="226.5" y="960" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="84aHz3qa12oFgQUH5IgG-61" value="基于SAM的两阶段结节分割" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="84aHz3qa12oFgQUH5IgG-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于SAM的两阶段结节分割&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="581" y="870" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="84aHz3qa12oFgQUH5IgG-62" value="基于深度形变的结节偏移预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
