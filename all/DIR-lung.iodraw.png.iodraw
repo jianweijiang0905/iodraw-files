@@ -893,8 +893,8 @@
         <mxCell id="QTTxMjCmEUEbMpS_83tR-15" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="QTTxMjCmEUEbMpS_83tR-21" vertex="1">
           <mxGeometry y="307.1474530831099" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QTTxMjCmEUEbMpS_83tR-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Conv3D(4,2,1)+ LeakyReLU(0.2)+ResConnect&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;fontSize=36;fontColor=#000000;" parent="QTTxMjCmEUEbMpS_83tR-21" vertex="1">
-          <mxGeometry x="185.00306569343047" y="-5" width="800" height="60" as="geometry" />
+        <mxCell id="QTTxMjCmEUEbMpS_83tR-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Conv3D(4,2,1)+ LeakyReLU(0.2)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;fontSize=36;fontColor=#000000;" parent="QTTxMjCmEUEbMpS_83tR-21" vertex="1">
+          <mxGeometry x="185.00306569343047" y="-2" width="559" height="55" as="geometry" />
         </mxCell>
         <mxCell id="QTTxMjCmEUEbMpS_83tR-17" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Conv3D(3,1,1)+ LeakyReLU(0.2)+ResConnect&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=4;fontSize=36;fontColor=#000000;" parent="QTTxMjCmEUEbMpS_83tR-21" vertex="1">
           <mxGeometry x="185.00306569343047" y="72.00104557640748" width="800" height="60" as="geometry" />
