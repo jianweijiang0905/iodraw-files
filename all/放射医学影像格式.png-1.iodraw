@@ -73,6 +73,12 @@
         <mxCell id="TO5Tq38z6HFEgLuyQ0up-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;医学影像&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetCDF工具包&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="595" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-Y_GY8Yj4v9QQ6sIJDsq-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.511;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="207" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
